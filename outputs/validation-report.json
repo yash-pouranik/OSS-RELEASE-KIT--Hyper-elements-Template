@@ -1,0 +1,265 @@
+{
+  "email": {
+    "template": "email",
+    "valid": true,
+    "diagnosticsCount": 24,
+    "diagnostics": [
+      {
+        "code": "email/outlook-degraded",
+        "severity": "info",
+        "message": "borderRadius on this Column in classic Outlook: square corners",
+        "path": "root.children[0].children[0].children[1].style.borderRadius",
+        "clients": [
+          "outlook"
+        ],
+        "see": "https://www.caniemail.com/features/css-border-radius/"
+      },
+      {
+        "code": "email/outlook-degraded",
+        "severity": "info",
+        "message": "borderRadius on this Column in classic Outlook: square corners",
+        "path": "root.children[1].children[2].style.borderRadius",
+        "clients": [
+          "outlook"
+        ],
+        "see": "https://www.caniemail.com/features/css-border-radius/"
+      },
+      {
+        "code": "email/outlook-degraded",
+        "severity": "info",
+        "message": "borderRadius on this Button in classic Outlook: square corners",
+        "path": "root.children[1].children[3].children[0].style.borderRadius",
+        "clients": [
+          "outlook"
+        ],
+        "see": "https://www.caniemail.com/features/css-border-radius/"
+      },
+      {
+        "code": "email/outlook-degraded",
+        "severity": "info",
+        "message": "borderRadius on this Button in classic Outlook: square corners",
+        "path": "root.children[1].children[3].children[1].style.borderRadius",
+        "clients": [
+          "outlook"
+        ],
+        "see": "https://www.caniemail.com/features/css-border-radius/"
+      },
+      {
+        "code": "email/outlook-degraded",
+        "severity": "info",
+        "message": "borderRadius on this Column in classic Outlook: square corners",
+        "path": "root.children[2].children[0].children[0].style.borderRadius",
+        "clients": [
+          "outlook"
+        ],
+        "see": "https://www.caniemail.com/features/css-border-radius/"
+      },
+      {
+        "code": "email/outlook-degraded",
+        "severity": "info",
+        "message": "borderRadius on this Column in classic Outlook: square corners",
+        "path": "root.children[2].children[0].children[1].style.borderRadius",
+        "clients": [
+          "outlook"
+        ],
+        "see": "https://www.caniemail.com/features/css-border-radius/"
+      },
+      {
+        "code": "email/outlook-degraded",
+        "severity": "info",
+        "message": "borderRadius on this Column in classic Outlook: square corners",
+        "path": "root.children[2].children[0].children[2].style.borderRadius",
+        "clients": [
+          "outlook"
+        ],
+        "see": "https://www.caniemail.com/features/css-border-radius/"
+      },
+      {
+        "code": "email/outlook-degraded",
+        "severity": "info",
+        "message": "borderRadius on this Column in classic Outlook: square corners",
+        "path": "root.children[2].children[0].children[3].style.borderRadius",
+        "clients": [
+          "outlook"
+        ],
+        "see": "https://www.caniemail.com/features/css-border-radius/"
+      },
+      {
+        "code": "email/outlook-degraded",
+        "severity": "info",
+        "message": "borderRadius on this Column in classic Outlook: square corners",
+        "path": "root.children[3].children[1].style.borderRadius",
+        "clients": [
+          "outlook"
+        ],
+        "see": "https://www.caniemail.com/features/css-border-radius/"
+      },
+      {
+        "code": "email/outlook-degraded",
+        "severity": "info",
+        "message": "borderRadius on this Column in classic Outlook: square corners",
+        "path": "root.children[3].children[1].children[0].children[1].style.borderRadius",
+        "clients": [
+          "outlook"
+        ],
+        "see": "https://www.caniemail.com/features/css-border-radius/"
+      },
+      {
+        "code": "email/outlook-degraded",
+        "severity": "info",
+        "message": "borderRadius on this Column in classic Outlook: square corners",
+        "path": "root.children[3].children[2].style.borderRadius",
+        "clients": [
+          "outlook"
+        ],
+        "see": "https://www.caniemail.com/features/css-border-radius/"
+      },
+      {
+        "code": "email/outlook-degraded",
+        "severity": "info",
+        "message": "borderRadius on this Column in classic Outlook: square corners",
+        "path": "root.children[3].children[2].children[0].children[1].style.borderRadius",
+        "clients": [
+          "outlook"
+        ],
+        "see": "https://www.caniemail.com/features/css-border-radius/"
+      },
+      {
+        "code": "email/outlook-degraded",
+        "severity": "info",
+        "message": "borderRadius on this Column in classic Outlook: square corners",
+        "path": "root.children[3].children[3].style.borderRadius",
+        "clients": [
+          "outlook"
+        ],
+        "see": "https://www.caniemail.com/features/css-border-radius/"
+      },
+      {
+        "code": "email/outlook-degraded",
+        "severity": "info",
+        "message": "borderRadius on this Column in classic Outlook: square corners",
+        "path": "root.children[3].children[3].children[0].children[1].style.borderRadius",
+        "clients": [
+          "outlook"
+        ],
+        "see": "https://www.caniemail.com/features/css-border-radius/"
+      },
+      {
+        "code": "email/outlook-degraded",
+        "severity": "info",
+        "message": "borderRadius on this Column in classic Outlook: square corners",
+        "path": "root.children[3].children[4].style.borderRadius",
+        "clients": [
+          "outlook"
+        ],
+        "see": "https://www.caniemail.com/features/css-border-radius/"
+      },
+      {
+        "code": "email/outlook-degraded",
+        "severity": "info",
+        "message": "borderRadius on this Column in classic Outlook: square corners",
+        "path": "root.children[3].children[4].children[0].children[1].style.borderRadius",
+        "clients": [
+          "outlook"
+        ],
+        "see": "https://www.caniemail.com/features/css-border-radius/"
+      },
+      {
+        "code": "email/outlook-degraded",
+        "severity": "info",
+        "message": "borderRadius on this Column in classic Outlook: square corners",
+        "path": "root.children[4].children[1].style.borderRadius",
+        "clients": [
+          "outlook"
+        ],
+        "see": "https://www.caniemail.com/features/css-border-radius/"
+      },
+      {
+        "code": "email/outlook-degraded",
+        "severity": "info",
+        "message": "borderRadius on this Column in classic Outlook: square corners",
+        "path": "root.children[4].children[2].style.borderRadius",
+        "clients": [
+          "outlook"
+        ],
+        "see": "https://www.caniemail.com/features/css-border-radius/"
+      },
+      {
+        "code": "email/outlook-degraded",
+        "severity": "info",
+        "message": "letterSpacing on this Heading in classic Outlook: normal spacing: Word keeps letter spacing but doesn't draw it",
+        "path": "root.children[0].children[0].children[0].children[0].style.letterSpacing",
+        "clients": [
+          "outlook"
+        ]
+      },
+      {
+        "code": "email/outlook-degraded",
+        "severity": "info",
+        "message": "letterSpacing on this Text in classic Outlook: normal spacing: Word keeps letter spacing but doesn't draw it",
+        "path": "root.children[0].children[0].children[0].children[1].style.letterSpacing",
+        "clients": [
+          "outlook"
+        ]
+      },
+      {
+        "code": "email/outlook-degraded",
+        "severity": "info",
+        "message": "letterSpacing on this Heading in classic Outlook: normal spacing: Word keeps letter spacing but doesn't draw it",
+        "path": "root.children[1].children[0].style.letterSpacing",
+        "clients": [
+          "outlook"
+        ]
+      },
+      {
+        "code": "email/outlook-degraded",
+        "severity": "info",
+        "message": "letterSpacing on this Text in classic Outlook: normal spacing: Word keeps letter spacing but doesn't draw it",
+        "path": "root.children[1].children[2].children[0].style.letterSpacing",
+        "clients": [
+          "outlook"
+        ]
+      },
+      {
+        "code": "email/outlook-degraded",
+        "severity": "info",
+        "message": "letterSpacing on this Text in classic Outlook: normal spacing: Word keeps letter spacing but doesn't draw it",
+        "path": "root.children[3].children[0].children[0].style.letterSpacing",
+        "clients": [
+          "outlook"
+        ]
+      },
+      {
+        "code": "email/outlook-degraded",
+        "severity": "info",
+        "message": "letterSpacing on this Text in classic Outlook: normal spacing: Word keeps letter spacing but doesn't draw it",
+        "path": "root.children[4].children[0].children[0].style.letterSpacing",
+        "clients": [
+          "outlook"
+        ]
+      }
+    ],
+    "outlineText": "Email 600px: background #fafafa\n  Section 600px: background #ffffff\n    Row 550px: 2 side by side, stacked on phones\n      Column 262px\n        Heading h2 262px \"Prism UI\"\n        Text 262px \"Official Release Notes\"\n      Column 288px: background #f4f4f5\n        Text 262px \"v2.0.0 • MAJOR\"\n  Section 600px: background #ffffff\n    Heading h1 550px \"Build better interfaces, faster.\"\n    Text 550px \"Prism UI 2.0 is a ground-up reimagining of our developer component primitives. …\"\n    Column 550px: background #18181b\n      Text 516px \"Quick Install\"\n      Text 516px \"npm install prism-ui@latest\"\n    Row 550px: 2 side by side, stacked on phones\n      Button 268px: background #18181b \"Explore Documentation\" → https://example.com/docs\n      Button 270px: background #f4f4f5 \"View on GitHub\" → https://github.com/example/prism-ui\n  Section 600px: background #ffffff\n    Row 550px: 4 side by side, stacked on phones\n      Column 126px: background #fafafa\n        Heading h3 100px \"8.4 kB\"\n        Text 100px \"Bundle Size\"\n      Column 126px: background #fafafa\n        Heading h3 100px \"+38%\"\n        Text 100px \"Performance Gain\"\n      Column 125px: background #fafafa\n        Heading h3 99px \"100%\"\n        Text 99px \"A11y Score\"\n      Column 125px: background #fafafa\n        Heading h3 99px \"99.4%\"\n        Text 99px \"Test Coverage\"\n  Section 600px: background #ffffff\n    Column 550px\n      Text 550px \"What's New\"\n      Heading h2 550px \"Key Release Highlights\"\n    Column 550px: background #fafafa\n      Row 516px: 2 side by side, stacked on phones\n        Column 250px\n          Heading h4 250px \"All-New Accessible DatePicker\"\n        Column 266px: background #f4f4f5\n          Text 250px \"New Component\"\n      Text 516px \"Fluid multi-view calendar engine with range selection, custom timezone localiza…\"\n    Column 550px: background #fafafa\n      Row 516px: 2 side by side, stacked on phones\n        Column 250px\n          Heading h4 250px \"Overhauled Headless Select\"\n        Column 266px: background #f4f4f5\n          Text 250px \"Overhauled\"\n      Text 516px \"Re-engineered virtualized list engine with asynchronous search filtering, multi…\"\n    Column 550px: background #fafafa\n      Row 516px: 2 side by side, stacked on phones\n        Column 250px\n          Heading h4 250px \"First-Class Keyboard Navigation\"\n        Column 266px: background #f4f4f5\n          Text 250px \"Accessibility\"\n      Text 516px \"Complete WAI-ARIA roving tabindex implementations across Dropdown, Accordion, M…\"\n    Column 550px: background #fafafa\n      Row 516px: 2 side by side, stacked on phones\n        Column 250px\n          Heading h4 250px \"WCAG 2.1 AAA Compliance\"\n        Column 266px: background #f4f4f5\n          Text 250px \"Accessibility\"\n      Text 516px \"Rigorous screen-reader audit with built-in high-contrast focus rings, automated…\"\n  Section 600px: background #ffffff\n    Column 550px\n      Text 550px \"Breaking Changes\"\n      Heading h2 550px \"Migration Required for v2.0\"\n    Column 550px: background #fef2f2\n      Heading h4 520px \"Consolidated Barrel Import Paths\"\n      Text 520px \"Use `npx @prism-ui/codemod unify-imports` to automatically update all imports i…\"\n    Column 550px: background #fef2f2\n      Heading h4 520px \"Modal & Dialog 'isOpen' Renamed to 'open'\"\n      Text 520px \"The codemod also renames `isOpen` to `open` and maps `onRequestClose` to `onOpe…\"\n  Section 600px: background #fafafa\n    Divider 552px\n    Text 552px \"Released on November 20, 2026 by the Prism UI Core Team. / This announcement wa…\"\n    Row 552px: 3 side by side, stacked on phones\n      Link 174px \"GitHub\" → https://github.com/example/prism-ui\n      Link 173px \"Documentation\" → https://example.com/docs\n      Link 173px \"npm Registry\" → https://npmjs.com/package/prism-ui"
+  },
+  "page": {
+    "template": "page",
+    "valid": true,
+    "diagnosticsCount": 0,
+    "diagnostics": [],
+    "outlineText": "Page 1120px: background #fafafa\n  Section 1120px: background #ffffff\n    Row 1054px: 2 side by side, stacked on phones\n      Row 527px: 2 side by side, stacked on phones\n        Heading h2 247px \"Prism UI\"\n        Column 268px: background #f4f4f5\n          Text 246px \"v2.0.0\"\n      Row 527px: 3 side by side, stacked on phones\n        Link 149px \"Docs\" → https://example.com/docs\n        Link 149px \"GitHub\" → https://github.com/example/prism-ui\n        Button 181px: background #18181b \"Get Started\" → https://npmjs.com/package/prism-ui\n  Section 1120px: background #ffffff\n    Column 1054px\n      Row 1054px: 1 side by side, stacked on phones\n        Text 1054px \"Release Announcement • November 20, 2026\"\n      Heading h1 1054px \"Build better interfaces, faster.\"\n      Text 820px \"Prism UI 2.0 is a ground-up reimagining of our developer component primitives. …\"\n    Column 1054px: background #18181b\n      Row 1004px: 2 side by side, stacked on phones\n        Text 502px \"Install Prism UI v2.0.0\"\n        Text 502px \"React 18 & 19 Ready\"\n      Row 1004px: 2 side by side, stacked on phones, background #18181b\n        Text 486px \"$ npm install prism-ui@latest\"\n        Text 486px \"copy\"\n      Row 1004px: 2 side by side, stacked on phones\n        Text 494px \"pnpm: pnpm add prism-ui@latest\"\n        Text 494px \"bun: bun add prism-ui@latest\"\n    Column 1054px\n      Row 1054px: 4 side by side, stacked on phones\n        Column 252px\n          Column 252px: background #fafafa\n            Heading h3 210px \"8.4 kB\"\n            Text 210px \"Bundle Size\"\n        Column 252px\n          Column 252px: background #fafafa\n            Heading h3 210px \"+38%\"\n            Text 210px \"Performance Gain\"\n        Column 251px\n          Column 251px: background #fafafa\n            Heading h3 209px \"100%\"\n            Text 209px \"A11y Score\"\n        Column 251px\n          Column 251px: background #fafafa\n            Heading h3 209px \"99.4%\"\n            Text 209px \"Test Coverage\"\n  Section 1120px: background #ffffff\n    Column 1054px\n      Text 1054px \"Deep Dive\"\n      Heading h2 1054px \"What's New in Version 2.0.0\"\n    Column 1054px: background #fafafa\n      Row 996px: 2 side by side, stacked on phones\n        Heading h3 485px \"All-New Accessible DatePicker\"\n        Column 511px: background #f4f4f5\n          Text 485px \"New Component\"\n      Text 996px \"Fluid multi-view calendar engine with range selection, custom timezone localiza…\"\n      Column 996px: background #18181b\n        Text 962px \"Usage Example\"\n        Text 962px \"import { DatePicker } from 'prism-ui'; <DatePicker mode=\"range\" defaultValue={[…\"\n    Column 1054px: background #fafafa\n      Row 996px: 2 side by side, stacked on phones\n        Heading h3 485px \"Overhauled Headless Select\"\n        Column 511px: background #f4f4f5\n          Text 485px \"Overhauled\"\n      Text 996px \"Re-engineered virtualized list engine with asynchronous search filtering, multi…\"\n      Column 996px: background #18181b\n        Text 962px \"Usage Example\"\n        Text 962px \"import { Select, SelectOption } from 'prism-ui'; <Select placeholder=\"Filter en…\"\n    Column 1054px: background #fafafa\n      Row 996px: 2 side by side, stacked on phones\n        Heading h3 485px \"First-Class Keyboard Navigation\"\n        Column 511px: background #f4f4f5\n          Text 485px \"Accessibility\"\n      Text 996px \"Complete WAI-ARIA roving tabindex implementations across Dropdown, Accordion, M…\"\n    Column 1054px: background #fafafa\n      Row 996px: 2 side by side, stacked on phones\n        Heading h3 485px \"WCAG 2.1 AAA Compliance\"\n        Column 511px: background #f4f4f5\n          Text 485px \"Accessibility\"\n      Text 996px \"Rigorous screen-reader audit with built-in high-contrast focus rings, automated…\"\n  Section 1120px: background #ffffff\n    Column 1054px\n      Text 1054px \"Migration Guide\"\n      Heading h2 1054px \"Upgrading from Prism UI v1.x to v2.0\"\n      Text 1054px \"Please review the breaking changes below before bumping versions in production.\"\n    Column 1054px: background #fef2f2\n      Column 1004px\n        Heading h3 1004px \"Consolidated Barrel Import Paths\"\n        Text 1004px \"Sub-package deep imports like 'prism-ui/core' and 'prism-ui/components' have be…\"\n      Row 1004px: 2 side by side, stacked on phones\n        Column 494px: background #ffffff\n          Text 460px \"Before (v1.x)\"\n          Text 460px \"// v1.x (Deprecated) import { Button } from 'prism-ui/core'; import { Modal } f…\"\n        Column 494px: background #ffffff\n          Text 460px \"After (v2.0)\"\n          Text 460px \"// v2.x (Unified) import { Button, Modal } from 'prism-ui';\"\n      Column 1004px: background #ffffff\n        Text 978px \"💡 Migration Tip: Use `npx @prism-ui/codemod unify-imports` to automatically up…\"\n    Column 1054px: background #fef2f2\n      Column 1004px\n        Heading h3 1004px \"Modal & Dialog 'isOpen' Renamed to 'open'\"\n        Text 1004px \"Standardized all boolean state props across primitives to align with native HTM…\"\n      Row 1004px: 2 side by side, stacked on phones\n        Column 494px: background #ffffff\n          Text 460px \"Before (v1.x)\"\n          Text 460px \"// v1.x <Modal isOpen={isVisible} onRequestClose={handleClose} />\"\n        Column 494px: background #ffffff\n          Text 460px \"After (v2.0)\"\n          Text 460px \"// v2.x <Modal open={isVisible} onOpenChange={setIsVisible} />\"\n      Column 1004px: background #ffffff\n        Text 978px \"💡 Migration Tip: The codemod also renames `isOpen` to `open` and maps `onReque…\"\n  Section 1120px: background #fafafa\n    Row 1054px: 2 side by side, stacked on phones\n      Column 527px\n        Heading h4 527px \"Prism UI Open Source Project\"\n        Text 527px \"Released under the MIT License • Built with pride by open source maintainers.\"\n      Row 527px: 2 side by side, stacked on phones\n        Button 257px: background #ffffff \"Star on GitHub\" → https://github.com/example/prism-ui\n        Button 254px: background #18181b \"Full Documentation\" → https://example.com/docs"
+  },
+  "document": {
+    "template": "document",
+    "valid": true,
+    "diagnosticsCount": 0,
+    "diagnostics": [],
+    "outlineText": "Document 698px: background #ffffff\n  PageHeader 698px\n    Row 696px: 2 side by side, stacked on phones\n      Column 348px\n        Text 348px \"PRISM UI TECHNICAL SPECIFICATION\"\n        Text 348px \"RELEASE & MIGRATION GUIDE • VERSION 2.0.0\"\n      Text 348px \"CONFIDENTIAL & OSS PUBLIC SPEC\"\n  PageFooter 698px\n    Row 696px: 2 side by side, stacked on phones\n      Text 348px \"Prism UI Core Architecture • Generated with OSS Release Kit\"\n      Text 348px \"Page of\"\n  Document.Page 698px\n    Column 698px\n      Text 698px \"Engineering Release Documentation\"\n      Heading h1 698px \"Prism UI v2.0.0: Architecture & Migration\"\n      Text 698px \"Published: November 20, 2026 • Release Type: MAJOR\"\n    Divider 698px\n    Column 698px: background #f4f4f5\n      Heading h3 668px \"1. Executive Overview\"\n      Text 668px \"Prism UI 2.0 is a ground-up reimagining of our developer component primitives. …\"\n    Column 698px\n      Heading h3 698px \"2. Performance Benchmarks & Quality Metrics\"\n      Table 698px\n        TableRow 696px: background #f4f4f5\n          TableCell 174px \"Benchmark Metric\"\n          TableCell 174px \"v1.x Legacy\"\n          TableCell 174px \"v2.0 Verified\"\n          TableCell 174px \"Impact\"\n        TableRow 696px\n          TableCell 174px \"Core Bundle Footprint (gzip)\"\n          TableCell 174px \"14.5 kB\"\n          TableCell 174px \"8.4 kB\"\n          TableCell 174px \"-42% reduction\"\n        TableRow 696px\n          TableCell 174px \"Initial Input Latency (INP)\"\n          TableCell 174px \"28 ms\"\n          TableCell 174px \"16 ms\"\n          TableCell 174px \"+43% faster\"\n        TableRow 696px\n          TableCell 174px \"Automated Test Coverage\"\n          TableCell 174px \"91.2%\"\n          TableCell 174px \"99.4%\"\n          TableCell 174px \"+8.2% delta\"\n        TableRow 696px\n          TableCell 174px \"W3C / WCAG Accessibility\"\n          TableCell 174px \"AA partial\"\n          TableCell 174px \"AAA 100%\"\n          TableCell 174px \"Full compliance\"\n    Column 698px\n      Heading h3 698px \"3. Feature Primitives Delivered\"\n      Row 698px: 1 side by side, stacked on phones, background #ffffff\n        Column 676px\n          Text 676px \"All-New Accessible DatePicker\"\n          Text 676px \"Fluid multi-view calendar engine with range selection, custom timezone localiza…\"\n      Row 698px: 1 side by side, stacked on phones, background #ffffff\n        Column 676px\n          Text 676px \"Overhauled Headless Select\"\n          Text 676px \"Re-engineered virtualized list engine with asynchronous search filtering, multi…\"\n      Row 698px: 1 side by side, stacked on phones, background #ffffff\n        Column 676px\n          Text 676px \"First-Class Keyboard Navigation\"\n          Text 676px \"Complete WAI-ARIA roving tabindex implementations across Dropdown, Accordion, M…\"\n  Document.Page 698px\n    Column 698px\n      Text 698px \"Section 4\"\n      Heading h2 698px \"Breaking Changes & Step-by-Step Migration\"\n      Text 698px \"Follow these upgrade steps carefully to ensure seamless migration to v2.0.\"\n    Divider 698px\n    Column 698px: background #fef2f2\n      Row 668px: 2 side by side, stacked on phones\n        Heading h4 334px \"4.1. Consolidated Barrel Import Paths\"\n        Text 334px \"ACTION REQUIRED\"\n      Text 668px \"Sub-package deep imports like 'prism-ui/core' and 'prism-ui/components' have be…\"\n      Table 668px: background #ffffff\n        TableRow 666px: background #fee2e2\n          TableCell 333px \"Deprecated Pattern (v1.x)\"\n          TableCell 333px \"Updated Standard (v2.0)\"\n        TableRow 666px\n          TableCell 333px \"// v1.x (Deprecated) import { Button } from 'prism-ui/core'; import { Modal } f…\"\n          TableCell 333px \"// v2.x (Unified) import { Button, Modal } from 'prism-ui';\"\n      Text 668px \"Automated Migration: Use `npx @prism-ui/codemod unify-imports` to automatically…\"\n    Column 698px: background #fef2f2\n      Row 668px: 2 side by side, stacked on phones\n        Heading h4 334px \"4.2. Modal & Dialog 'isOpen' Renamed to 'open'\"\n        Text 334px \"ACTION REQUIRED\"\n      Text 668px \"Standardized all boolean state props across primitives to align with native HTM…\"\n      Table 668px: background #ffffff\n        TableRow 666px: background #fee2e2\n          TableCell 333px \"Deprecated Pattern (v1.x)\"\n          TableCell 333px \"Updated Standard (v2.0)\"\n        TableRow 666px\n          TableCell 333px \"// v1.x <Modal isOpen={isVisible} onRequestClose={handleClose} />\"\n          TableCell 333px \"// v2.x <Modal open={isVisible} onOpenChange={setIsVisible} />\"\n      Text 668px \"Automated Migration: The codemod also renames `isOpen` to `open` and maps `onRe…\"\n    Column 698px: background #18181b\n      Text 668px \"Automated Codemod CLI\"\n      Text 668px \"$ npx @prism-ui/codemod upgrade-v2 --write\"\n      Text 668px \"Applies import consolidations and AST prop renames safely with dry-run support.\"\n    Column 698px: background #f4f4f5\n      Text 672px \"5. Support & Verification Resources\"\n      Text 672px \"Full documentation: https://example.com/docs • GitHub Issues: https://github.co…\""
+  },
+  "canvas": {
+    "template": "canvas",
+    "valid": true,
+    "diagnosticsCount": 0,
+    "diagnostics": [],
+    "outlineText": "Canvas 1200px: background #fafafa\n  Row 1088px: 2 side by side, stacked on phones\n    Row 544px: 2 side by side, stacked on phones\n      Column 265px: background #18181b\n        Text 233px \"PRISM UI\"\n      Column 263px: background #f4f4f5\n        Text 233px \"v2.0.0 • MAJOR\"\n    Text 544px \"November 20, 2026 • Official Launch\"\n  Column 1088px\n    Heading h1 1088px \"Build better interfaces, faster.\"\n    Text 1000px \"Prism UI 2.0 is a ground-up reimagining of our developer component primitives. …\"\n  Column 1088px\n    Row 1088px: 4 side by side, stacked on phones\n      Column 260px\n        Column 260px: background #ffffff\n          Text 226px \"New Component\"\n          Heading h4 226px \"All-New Accessible DatePicker\"\n          Text 226px \"Fluid multi-view calendar engine with range selection, custom timezone localiza…\"\n      Column 260px\n        Column 260px: background #ffffff\n          Text 226px \"Overhauled\"\n          Heading h4 226px \"Overhauled Headless Select\"\n          Text 226px \"Re-engineered virtualized list engine with asynchronous search filtering, multi…\"\n      Column 260px\n        Column 260px: background #ffffff\n          Text 226px \"Accessibility\"\n          Heading h4 226px \"First-Class Keyboard Navigation\"\n          Text 226px \"Complete WAI-ARIA roving tabindex implementations across Dropdown, Accordion, M…\"\n      Column 260px\n        Column 260px: background #ffffff\n          Text 226px \"Accessibility\"\n          Heading h4 226px \"WCAG 2.1 AAA Compliance\"\n          Text 226px \"Rigorous screen-reader audit with built-in high-contrast focus rings, automated…\"\n  Row 1088px: 2 side by side, stacked on phones, background #ffffff\n    Row 519px: 2 side by side, stacked on phones\n      Text 242px \"QUICK INSTALL:\"\n      Column 267px: background #18181b\n        Text 241px \"$ npm install prism-ui@latest\"\n    Row 519px: 4 side by side, stacked on phones\n      Row 115px: 2 side by side, stacked on phones\n        Text 55px \"8.4 kB\"\n        Text 54px \"Bundle Size\"\n      Row 115px: 2 side by side, stacked on phones\n        Text 55px \"+38%\"\n        Text 54px \"Performance Gain\"\n      Row 115px: 2 side by side, stacked on phones\n        Text 55px \"100%\"\n        Text 54px \"A11y Score\"\n      Text 114px \"example.com/docs\""
+  }
+}
