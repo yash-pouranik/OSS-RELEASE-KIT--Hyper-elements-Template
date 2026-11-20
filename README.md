@@ -93,6 +93,35 @@ OSS Release Kit
 
 ---
 
+## How Hyper Elements Was Used
+
+Hyper Elements (`@hyper-elements/react`) is incorporated into **OSS Release Kit** as the single source-of-truth layout and rendering engine:
+
+1. **Four Dedicated Root Templates**:
+   - `<Email lang="en">` (`src/templates/email/ReleaseEmail.tsx`) produces email-safe HTML without brittle CSS flexbox tricks.
+   - `<Page lang="en">` (`src/templates/page/ReleasePage.tsx`) renders the semantic, responsive developer release website.
+   - `<Document size="A4">` (`src/templates/document/ReleaseDocument.tsx`) renders multi-page technical documentation with headers, footers, and `<PageNumber />` of `<PageNumber total />`.
+   - `<Canvas width={1200} height={630}>` (`src/templates/canvas/ReleaseCanvas.tsx`) renders pixel-exact 1200×630 social graphics.
+
+2. **100% Component Purity (Zero Raw HTML in Templates)**:
+   - Templates use only official Hyper Elements primitives: `<Row>`, `<Column>`, `<Section>`, `<Heading>`, `<Text>`, `<Code>`, `<Badge>`, `<Divider>`, `<Button>`, and `<Document.Page>`.
+   - No raw `<div>`, `<p>`, or `<span>` tags are used inside templates. Spacing is handled exclusively via container `gap` and `padding` props.
+
+3. **Official CLI Audit & Validation (0 Errors, 0 Warnings)**:
+   - Audited with `@hyper-elements/cli` via `npx hyper-elements check src/templates`.
+   - Checked against `@hyper-elements/email-clients` for Outlook, Apple Mail, and Gmail quirks.
+   - Achieved **`4 designs: 0 errors, 0 warnings, 0 skipped`**.
+
+4. **Multi-Format Rendering APIs**:
+   - `render()` for Web & Email HTML.
+   - `renderPdf()` for A4 Document rendering.
+   - `renderImage()` for Satori/resvg-based PNG rasterization with bundled Poppins typography.
+
+5. **Official Template Specification (`PreviewProps`)**:
+   - Every template exports `PreviewProps` conforming to the Hyper Elements template registry specification for instant CLI dev inspection (`npx hyper-elements dev`).
+
+---
+
 ## Sample Demo: Prism UI v2.0.0
 Pre-seeded with realistic open-source component library release data:
 - **Project**: Prism UI (clearly marked fictional demo project)
