@@ -32,7 +32,7 @@ export const PreviewProps: ReleaseDocumentProps = {
 export default function ReleaseDocument({
   release = defaultReleaseData,
   theme = defaultBrandTheme,
-}: ReleaseDocumentProps = PreviewProps) {
+}: ReleaseDocumentProps): React.ReactElement {
   return (
     <Document
       size="A4"

@@ -30,7 +30,7 @@ export const PreviewProps: ReleasePageProps = {
 export default function ReleasePage({
   release = defaultReleaseData,
   theme = defaultBrandTheme,
-}: ReleasePageProps = PreviewProps) {
+}: ReleasePageProps): React.ReactElement {
   return (
     <Page
       width={1120}

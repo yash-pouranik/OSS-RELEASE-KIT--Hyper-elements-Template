@@ -25,7 +25,7 @@ export const PreviewProps: ReleaseCanvasProps = {
 export default function ReleaseCanvas({
   release = defaultReleaseData,
   theme = defaultBrandTheme,
-}: ReleaseCanvasProps = PreviewProps) {
+}: ReleaseCanvasProps): React.ReactElement {
   return (
     <Canvas
       width={1200}

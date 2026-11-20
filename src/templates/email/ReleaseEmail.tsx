@@ -29,7 +29,7 @@ export const PreviewProps: ReleaseEmailProps = {
 export default function ReleaseEmail({
   release = defaultReleaseData,
   theme = defaultBrandTheme,
-}: ReleaseEmailProps = PreviewProps) {
+}: ReleaseEmailProps): React.ReactElement {
   return (
     <Email
       width={600}
